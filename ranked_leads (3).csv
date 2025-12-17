@@ -1,0 +1,4 @@
+Name,Title,Company,Location,HQ_Location,Funding_Series,Tech_Stack,Published_Paper,Email,LinkedIn,Propensity_Score,Score_Breakdown
+Dr. Sarah Chen,Director of Toxicology,BioSafe Therapeutics,"Cambridge, MA","Cambridge, MA",Series B,Uses in-vitro models,True,sarah.c@biosafe.com,linkedin.com/in/sarahchen,100,"High Fit Role (+30), Recent Funding Series A/B (+20), Uses Similar Tech (+15), Located in BioHub (+10), Published Relevant Paper (+25)"
+David Kim,VP Preclinical,HepatoLogic,Remote (CO),"Boston, MA",Series B,Uses in-vitro models,True,d.kim@hepatologic.io,linkedin.com/in/dkim,100,"High Fit Role (+30), Recent Funding Series A/B (+20), Uses Similar Tech (+15), Located in BioHub (+10), Published Relevant Paper (+25)"
+Michael Ross,Head of Safety Assessment,NovaPharma,"San Francisco, CA","San Francisco, CA",Series A,Unknown,False,mross@novapharma.com,linkedin.com/in/mross,60,"High Fit Role (+30), Recent Funding Series A/B (+20), Located in BioHub (+10)"
